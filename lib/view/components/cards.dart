@@ -98,6 +98,7 @@ class SpecificSelectedCard extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               crossAxisAlignment: CrossAxisAlignment.end,
               children: [
+                Text("Test"),
                 Text(
                   "total: $subTitle",
                   style: TextStyle(fontSize: 14.0),
